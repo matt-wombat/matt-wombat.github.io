@@ -15,3 +15,5 @@ The Wombat is an sweet australian marsupial species. They have a plant based die
 Grumpy Wombat says:
 
 > Grrrr
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wombat_3.jpg">
