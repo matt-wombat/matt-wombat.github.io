@@ -16,4 +16,4 @@ Grumpy Wombat says:
 
 > Grrrr
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wombat_3.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wombat_3.jpg"/>
